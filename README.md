@@ -1,1 +1,1 @@
-# shuffleguard
+# Merhabalar botçuluğu saldım fazla takılmıyorum botla. bot yazan / geliştiren arkadaşlara güzel bi çok client taktiği attım kendiniz package falan filan kurup çalıştırabilirsiniz bu bir guard botu fakat bunları backup'a uyarlarsınız bi zahmet. Botta hatalar olabilir uzun zamandır çalıştırmadım bakarsınız siz.
