@@ -1,3 +1,7 @@
+//خَتَمَ اللّهُ عَلَى قُلُوبِهمْ وَعَلَى سَمْعِهِمْ وَعَلَى أَبْصَارِهِمْ غِشَاوَةٌ\nبِسْــــــــــــــــــــــمِ اﷲِارَّحْمَنِ ارَّحِيم
+//بِسْمِ اللَّهِ الَّذِى لاَ يَضُرّ ُ مَعَ اسْمِهِ شَيْءٌ فِي اْلاَرْضِ وَلاَ فِي السَّمَاءِ وَ هُوَ السَّمِيعُ الْعَلِيمْ
+//YARRABI OROSPU EVLATLARI TARAFINDAN YOLLANAN EVENTLERDEN BIZI KORU.
+
 const { Discord, Client, MessageEmbed } = require('discord.js');
 const client = new Client({ fetchAllMembers: true })
 const system = require('KENDIN YAZ')
